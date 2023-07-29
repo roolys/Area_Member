@@ -1,0 +1,18 @@
+
+Quelques fonctionnalites a integrer dans le projet Member_Area :
+
+- Post image
+- Gerer le post de telles facons que l'utilisateur peut poster un text, une image ou les deux
+- Mettre un systeme de CRUD sur les posts
+- Commenter un commentaire
+- Bloquer un post (role de l'admin) pour qu'il ne soit plus visible dans le fil des publications.
+- Afficher les statistiques des posts sur le Dashboard Admin (Nombre de post, nombre de commentaires, nombre d'utilisateurs,...)
+
+
+
+
+To run this project execute these commands :
+
+1- php artisan serve and make sure your local server is launched
+2- npm run dev to launch development server in watch mode 
+
